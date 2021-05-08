@@ -12,8 +12,10 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
+    <None Include="..\icon.png" Pack="true" PackagePath="\"/>
   </ItemGroup>
   <PropertyGroup>
+    <PackageIcon>icon.png</PackageIcon>
     <RepositoryUrl>https://github.com/seungyongshim/Serilog.Enrichers.ActivityTags</RepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <IncludeSymbols>true</IncludeSymbols>
