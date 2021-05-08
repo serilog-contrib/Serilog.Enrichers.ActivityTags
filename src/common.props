@@ -3,8 +3,8 @@
     <Copyright>Copyright © 2020-2021 </Copyright>
     <Authors>Seungyong Shim</Authors>
     <Version>0.0.0.000</Version>
-    <PackageProjectUrl>https://github.com/seungyongshim/ModificationHere</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/seungyongshim/ModificationHere/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/seungyongshim/Serilog.Enrichers.ActivityTags</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/seungyongshim/Serilog.Enrichers.ActivityTags/blob/master/LICENSE</PackageLicenseUrl>
     <NoWarn>$(NoWarn);CS1591;xUnit1013</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -14,7 +14,7 @@
     <PackageReference Include="Microsoft.SourceLink.GitHub" Version="1.0.0" PrivateAssets="All" />
   </ItemGroup>
   <PropertyGroup>
-    <RepositoryUrl>https://github.com/seungyongshim/ModificationHere</RepositoryUrl>
+    <RepositoryUrl>https://github.com/seungyongshim/Serilog.Enrichers.ActivityTags</RepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>

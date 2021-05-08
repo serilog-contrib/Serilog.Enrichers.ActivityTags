@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serilog.Enrichers.ActivityT
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serilog.Enrichers.ActivityTags.Tests", "Serilog.Enrichers.ActivityTags.Tests\Serilog.Enrichers.ActivityTags.Tests.csproj", "{828D861E-AFC8-45D1-B7DD-72B40323525D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F9EF19A0-4F8A-451C-9866-A72E65E519A0}"
+	ProjectSection(SolutionItems) = preProject
+		common.props = common.props
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
