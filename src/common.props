@@ -1,10 +1,10 @@
 <Project>
   <PropertyGroup>
     <Copyright>Copyright © 2020-2021 </Copyright>
-    <Authors>Seungyong Shim</Authors>
+    <Authors>Serilog Contrib</Authors>
     <Version>0.0.0.000</Version>
-    <PackageProjectUrl>https://github.com/seungyongshim/Serilog.Enrichers.ActivityTags</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/seungyongshim/Serilog.Enrichers.ActivityTags/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/serilog-contrib/Serilog.Enrichers.ActivityTags</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/serilog-contrib/Serilog.Enrichers.ActivityTags/blob/master/LICENSE</PackageLicenseUrl>
     <NoWarn>$(NoWarn);CS1591;xUnit1013</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -16,7 +16,7 @@
   </ItemGroup>
   <PropertyGroup>
     <PackageIcon>icon.png</PackageIcon>
-    <RepositoryUrl>https://github.com/seungyongshim/Serilog.Enrichers.ActivityTags</RepositoryUrl>
+    <RepositoryUrl>https://github.com/serilog-contrib/Serilog.Enrichers.ActivityTags</RepositoryUrl>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
